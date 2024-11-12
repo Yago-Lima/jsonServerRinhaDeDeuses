@@ -1,0 +1,49 @@
+{
+    "deuses": [
+        {
+            "nome": "Tupã"
+        },
+        {
+            "nome": "Jaci"
+        },
+        {
+            "nome": "Guaraci"
+        },
+        {
+            "nome": "Anhangá"
+        },
+        {
+            "nome": "Yorixiriamori"
+        },
+        {
+            "nome": "Wanadi"
+        }
+    ],
+    "simbolos": [
+        {
+            "nome": "trovão"
+        },
+        {
+            "nome": "lua"
+        },
+        {
+            "nome": "sol"
+        },
+        {
+            "nome": "mata"
+        },
+        {
+            "nome": "encanto"
+        },
+        {
+            "nome": "bondade"
+        }
+    ],
+    "numero": [
+        10,
+        20,
+        30,
+        40,
+        50
+    ]
+}
